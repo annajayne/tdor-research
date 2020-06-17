@@ -1,0 +1,6 @@
+syntax: glob
+*.bak
+*.log
+*.pnps
+*.zip
+*.7z
