@@ -1,4 +1,4 @@
-Content-Type: text/x-zim-wiki
+﻿Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2020-06-14T20:26:57+01:00
 
@@ -14,7 +14,7 @@ https://www.diariolibre.com/actualidad/sucesos/una-mujer-trans-fue-encontrada-mu
 Santo Domingo
 Distrito Nacional
 Dominican Republic
-not reported
+cardiac arrest
 
 
 Many residents and people who frequent Duarte Park in the Colonial Zone of Santo Domingo knew her as Nairobi, a transgender woman, very charismatic and friendly. Last Monday, his lifeless body was found in the Fray Bartolomé de las Casas park, and so far the authorities have not issued any information about what happened.
@@ -178,6 +178,8 @@ Santo Domingo, RD.- Neighbors and friends of a transgender found dead in a park 
 People close to Nairovi Leclerc questioned the version that this would have died as a result of a cardiac arrest when he was in the park Fray Bartolomé de las Casas.
 
 Representatives of the GLBT community also indicated through a statement that they join the pain that overwhelms relatives and friends of Leclerc, ensuring that heaven receives a companion very dear to all who knew her.
+
+https://www.diariolibre.com/actualidad/sucesos/un-infarto-causo-la-muerte-a-mujer-trans-encontrada-en-parque-de-la-zona-colonial-IG17449203
 
 https://www.masnoticias.com.do/2020/03/04/encuentra-transexual-muerto-en-parque-zona-colonial/
 
