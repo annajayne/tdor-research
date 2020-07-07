@@ -1,4 +1,4 @@
-Content-Type: text/x-zim-wiki
+﻿Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2020-07-04T20:35:39+01:00
 
@@ -29,6 +29,8 @@ Saturday morning, advocates for transgender rights reported Peters was misidenti
 Law enforcement did not confirm the second death investigation. 
 
 https://twitter.com/hashtag/shakipeters?src=hashtag_click
+
+https://www.advocate.com/crime/2020/7/05/three-trans-americans-killed-past-week-one-hospital-post-attack
 
 https://web.archive.org/web/20200705054519/https://www.wwltv.com/article/news/crime/trans-women-killed/289-b05b0a10-8d8a-4945-b426-8e766522e385
 
