@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-05-31T18:59:53+01:00
+
+====== Images ======
+Created Monday 31 May 2021
+
+{{.\Stonewall Means Fight Back (Battle Acts, Vol 3, Issue 2, Summer, 1973).jpg}}
+{{.\Why should we live in fear.PNG}}
