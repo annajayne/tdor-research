@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-05-31T16:36:55+01:00
+
+====== James Reid (Baltimore, MD, USA, 23 May 1969) ======
+Created Monday 31 May 2021
+
+@violence
+
+James Reid
+27
+1969-05-23
+Baltimore
+Maryland
+USA
+Stabbed
+NOT IN TDOR
+
+Map Location: https://goo.gl/maps/6KSC34avX6yGkRTS7
+
+{{.\Images\James Reid.jpg}}
+
+At 2 A.M. of 23 May, 1969, James Reid, 27, who was wearing woman's clothing, was stabbed to death at the corner of Harrison and Fayette Streets, across the street from police headquarters in Baltimore, Maryland, USA.
+
+1. [[+Scene Of Fatal Stabbing (Evening Sun, Baltimore, MD, USA, 1969-05-23)]]
