@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-06-13T07:48:49+01:00
+
+====== Images ======
+Created Sunday 13 June 2021
+
+{{.\2686 Connecticut St Gary.jpg}}
