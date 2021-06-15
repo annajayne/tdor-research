@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-06-13T04:42:45+01:00
+
+====== Images ======
+Created Sunday 13 June 2021
+
+{{.\british sterling.jpg}}
+
+{{.\red white blue revue 72.jpg}}
+{{.\miss gay atlanta 1972 crowning.jpg}}
