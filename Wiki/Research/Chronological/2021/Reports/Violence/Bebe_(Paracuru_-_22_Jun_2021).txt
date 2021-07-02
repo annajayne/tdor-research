@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2021-06-22T20:15:05+01:00
 
-====== Bebe (Paracuru - 22 Jan 2021) ======
+====== Bebe (Paracuru - 22 Jun 2021) ======
 Created Tuesday 22 June 2021
 @violence
 
@@ -17,6 +17,7 @@ Riacho Doce
 Paracuru
 Ceará
 Brazil
+-3.4150876,-39.0461206
 stabbed
 
 
