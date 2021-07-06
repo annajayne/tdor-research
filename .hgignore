@@ -5,13 +5,16 @@ syntax: glob
 *.zip
 *.7z
 *.rej
+
 Drafted.txt
 Missing.txt
+Triage.txt
 
 
 Drafted/*
 Misc/*
 Missing/*
+Triage/*
 
 _wip/*
 
