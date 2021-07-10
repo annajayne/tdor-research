@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-06-25T05:42:25+01:00
+
+====== Images ======
+Created Friday 25 June 2021
+
+{{.\vista point lake success.jpg}}

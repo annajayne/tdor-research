@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-06-25T05:26:24+01:00
+
+====== Images ======
+Created Friday 25 June 2021
+
+{{.\7595 Viua.jpg}}
