@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-07-18T07:23:03+01:00
+
+====== Images ======
+Created Sunday 18 July 2021
+
+{{.\harvey aberle.PNG}}
+{{.\harvey aberle002.png}}
