@@ -1,10 +1,16 @@
 syntax: glob
 *.bak
 *.log
+*.jpg
+*.pdf
 *.pnps
 *.zip
 *.7z
 *.rej
+Drafted.txt
+Triage.txt
+Unconfirmed.txt
+Updates.txt
 
 Drafted.txt
 Missing.txt
@@ -12,9 +18,14 @@ Triage.txt
 
 
 Drafted/*
+_wip/*
 Misc/*
 Missing/*
 Triage/*
-
+Drafted/*
+Unconfirmed*/*
+Triage/*
+Updates/*
+Wiki/Research/Missing/*
 _wip/*
 
