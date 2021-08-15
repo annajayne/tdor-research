@@ -7,7 +7,7 @@ Created Friday 02 July 2021
 @suicide
 
 
-Near/Byuu
+Near
 2021_06_27_Near.jpg
 https://twitter.com/near_koukai/status/1408940057235312640
 27 Jun 2021
@@ -17,14 +17,19 @@ suicide
 
 
 
+Near was a software developer known for conserving retro video games and developing emulators. They died by suicide after being the victim of harassment by users of the notorious Kiwi Farms internet site.
+
+
+
 Near had been the victim of harassment and violence due to his gender identity which led him to that point in his life
 
-I have developed some of the first computer video game emulators. Bsnes had been released especially for an audience with no technical experience. But, not only for that had Near been celebrated, he had also done preservation work and full translations of extensive RPGs like Bahamut Lagoon .
+I have developed some of the first computer video game emulators. Bsnes had been released especially for an audience with no technical experience. But, not only for that had Near been celebrated, he had also done preservation work and full translations of extensive RPGs like Bahamut Lagoon.
 
 Some of Near's conservation work ranged from thousands of classic video game art scans to historical artifacts like Stephen Hawking's synthesized voice. However, none of his achievements stopped the violent harassment he had received online for years, according to his friend , Hector Martín .
 
 Video games and mental health: Find out why this quarantine is saving you
 Near shared his latest messages on twitter
+
 According to his social networks, Near (or Byuu as he was also known) confesses that the abuse he had received from Kiwi Farms had become intolerable. Kiwi Farms is an anonymous internet community that is defined like this: 'Community dedicated to discussing eccentric people who become a joke. Explore the abnormal psychology and mind of the follies of the internet. '
 
 Near snes bsnes emulator creator nonbinary died
@@ -121,8 +126,7 @@ Published on behalf of a mutual friend of Near and I, who wishes to remain anony
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-Website: https://near.sh/
-Twitter: https://twitter.com/near_koukai
+Near's Twitter profile and website are https://twitter.com/near_koukai and https://near.sh/.
 
 https://kotaku.com/the-brilliant-snes-emulator-creator-known-as-near-has-d-1847182851
 
