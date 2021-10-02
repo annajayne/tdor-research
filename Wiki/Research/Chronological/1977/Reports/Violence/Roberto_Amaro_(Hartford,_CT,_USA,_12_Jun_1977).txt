@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-02T10:47:33+01:00
+
+====== Roberto Amaro (Hartford, CT, USA, 12 Jun 1977) ======
+Created Saturday 02 October 2021
+
+@violence
+
+Robert Amaro
+20
+1977-06-12
+Hartford
+Connecticut
+USA
+Stabbed
+NOT IN TDOR
+Coordinates: 41.77539481357239, -72.68105455529901
+Map Location: https://goo.gl/maps/vje69CAR55DNMFj47
+
+{{.\Images\104 Edwards St Hartford CT.JPG?height=434}}
+
+
+1. [[+Man Is Slain In Argument (Hartford Courant, Hartford, CT, USA, 1977-06-13)]]
+2. [[+Suspects Arraigned In Common Pleas Court (Hartford Courant, Hartford, CT, USA, 1977-06-15)]]
+3. [[+Funeral Set For Victim Of Stabbing (Hartford Courant, Hartford, CT, USA, 1977-06-16)]]
+4. [[+Hartfordite Gets Term in Stabbing (Bridgeport Telegram, Bridgeport, CT, USA, 1977-08-18)]]
