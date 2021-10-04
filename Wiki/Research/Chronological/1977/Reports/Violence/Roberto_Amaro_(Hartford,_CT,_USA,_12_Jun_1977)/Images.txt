@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-02T10:55:30+01:00
+
+====== Images ======
+Created Saturday 02 October 2021
+
+{{.\104 Edwards St Hartford CT.JPG}}
