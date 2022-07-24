@@ -1,10 +1,10 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
+Wiki-Format: zim 0.4
 Creation-Date: 2022-07-16T20:59:22+01:00
 
 ====== Isabela dos Santos (Salvador - 24 Jun 2022) ======
 Created Saturday 16 July 2022
-@uncatgorised
+@uncategorised
 
 
 

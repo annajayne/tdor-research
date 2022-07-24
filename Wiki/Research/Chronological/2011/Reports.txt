@@ -5,3 +5,13 @@ Creation-Date: 2020-06-17T08:16:27+01:00
 ====== Reports ======
 Created Wednesday 17 June 2020
 
+
+
+TODO add redirect from:
+
+https://tdor.translivesmatter.info/reports/2010/12/29/cheo-reana-bustamente_colonia-alameda-tegucigalpa-distrito-central-honduras_c17bb27a
+
+to: 
+
+https://tdor.translivesmatter.info/reports/2011/01/02/reana-cheo-bustamente_tegucigalpa-distrito-central-honduras_06167c82
+
