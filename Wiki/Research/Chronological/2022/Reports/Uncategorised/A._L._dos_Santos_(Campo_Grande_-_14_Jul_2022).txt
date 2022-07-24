@@ -1,10 +1,10 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
+Wiki-Format: zim 0.4
 Creation-Date: 2022-07-15T07:31:43+01:00
 
 ====== A. L. dos Santos (Campo Grande - 14 Jul 2022) ======
 Created Friday 15 July 2022
-@uncategoriised
+@uncategorised
 
 
 
