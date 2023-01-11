@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
+Wiki-Format: zim 0.4
 Creation-Date: 2022-11-21T20:42:48+00:00
 
 ====== Adalyn Anderson (Oklahoma City - 15 Nov 2022) ======
@@ -20,6 +20,8 @@ USA
 suicide
 
 
+
+Adalyn died by suicide.
 
 > Adalyn” Anderson, age 24, of Oklahoma City, passed away Tuesday November 15, 2022. Adalyn Anderson was born June 11, 1998, in Austin, TX. She was the fifth of five children born to Michael Edward Anderson and Rita Renee Anderson. She was raised in Pflugerville, TX, Montgomery, TX Justin, TX and Oklahoma City, OK. She graduated from Moore High School in 2016.
 > 
