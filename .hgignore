@@ -7,25 +7,22 @@ syntax: glob
 *.zip
 *.7z
 *.rej
+
 Drafted.txt
+Missing.txt
+Misc.txt
+Published.txt
 Triage.txt
 Unconfirmed.txt
 Updates.txt
 
-Drafted.txt
-Missing.txt
-Triage.txt
 
-
-Drafted/*
 _wip/*
+Drafted/*
+Published/*
 Misc/*
 Missing/*
 Triage/*
-Drafted/*
 Unconfirmed*/*
-Triage/*
 Updates/*
-Wiki/Research/Missing/*
-_wip/*
 
