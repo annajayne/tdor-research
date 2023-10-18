@@ -1,6 +1,7 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2023-10-08T22:40:40+01:00
+
 
 ====== Molly (Stockholm - 24 May 2023) ======
 Created Sunday 08 October 2023

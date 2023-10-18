@@ -34,7 +34,7 @@ if not "%SOURCE_ZIP_PWD%"== "" (
 cd "..\..\..\Scripts"
 
 rem Zip the rest
-7z a %PwdParam% -r  -mhe -mtc "%BackupFile%" "..\*.*" -xr!".*/" -x@%ExclusionsFileName%
+7z a %PwdParam% -r  -mhe -mtc "%BackupFile%" "..\*.*" -x@%ExclusionsFileName%
 
 if ERRORLEVEL 1 goto ZipError
 
