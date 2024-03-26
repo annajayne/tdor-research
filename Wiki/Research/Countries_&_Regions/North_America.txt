@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2024-03-19T22:37:02+00:00
+
+====== North America ======
+Created Tuesday 19 March 2024
+
+
+Massachusetts cases: [[.\TDOR MA entries.docx|TDOR MA entries.docx]]
+
+US and Canada changes: [[.\Trans Murders (US and Canada).gdoc|Trans Murders (US and Canada).gdoc]]
