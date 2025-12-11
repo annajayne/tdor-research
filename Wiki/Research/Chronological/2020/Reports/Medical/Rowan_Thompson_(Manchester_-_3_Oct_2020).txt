@@ -1,0 +1,472 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2025-11-11T11:20:29+00:00
+
+====== Rowan Thompson (Manchester - 3 Oct 2020) ======
+Created Tuesday 11 November 2025
+@medical
+
+
+Rowan Thompson
+18
+2020_10_03_Rowan-Thompson.jpg
+https://www.manchestereveningnews.co.uk/news/greater-manchester-news/trans-child-went-hospital-didnt-22453155
+https://www.manchestereveningnews.co.uk/news/greater-manchester-news/breaking-jury-rules-neglect-prestwich-25399556
+3 Oct 2020
+Prestwich Hospital
+Manchester
+United Kingdom
+clinical neglect
+
+//Inquest: Oct 2022//
+
+
+
+> The inquest into the death of teenager Rowan Thompson concluded yesterday (31 October 2022), with the jury finding that Rowan died of Cardiac Arrythmia due to Severe Hypokalaemia of unknown cause, contributed to by neglect due to the failure to communicate the findings of blood tests.
+> 
+> The inquest was heard over six days at North Manchester Coroner’s Court in front of HM Senior Coroner Ms Joanne Kearsley, sitting with a jury.
+> 
+> Rowan died on 3 October 2020 whilst an inpatient at the Gardener Unit, a medium secure adolescent mental health unit in Prestwich run by Greater Manchester Mental Health NHS Foundation Trust (GMMH). Rowan, who identified as non-binary, was 18 at the time of their death.
+> 
+> On 2 October 2020, blood tests were requested by Rowan’s psychiatrist to establish if there was a medical reason for Rowan’s noticeable weight loss. The jury found that the blood tests showed evidence of Severe Hypokalaemia but that the results were not communicated to the medical team and as a result life-saving treatment was not commenced.
+> 
+> Toxicologist Dr Stephen Morley told the inquest that Rowan’s potassium levels had been “life threatening” and that a timely admission to hospital could have saved their life. Rowan’s psychiatrist, Dr Malik, said he would have sent Rowan to A&E straight away had he received the results at the right time.
+> 
+> The blood samples were processed by Salford Royal Hospital at 13:10 on 2 October 2020, showing a potassium level of 2.3mmols. A further test was taken at 13:37 which confirmed the same result. The Royal College of Pathology states that a result of potassium levels below 2.5mmols must be verbally communicated within 2 hours of findings.
+> 
+> Numerous attempts were made by Salford Royal Hospital to communicate the results to the Gardener Unit between 13:40 and 16:58, all of which were unsuccessful due to phone numbers no longer being in service and email issues. The jury found that there was a failure by Northern Care Alliance (NCA), who are responsible for Salford Royal Hospital, to communicate the blood results and this probably caused or contributed to Rowan’s death.
+> 
+> The jury also found numerous failings on behalf of GMMH, including that the failure to provide the correct contact details probably caused or contributed to Rowan’s death.
+> 
+> Rowan was on 1:15 minute observations. The jury found that 5 out of 8 members of staff on the ward falsified observation records. On 3 October 2020 between 07:00 and 12:45, 9 out of 24 quarterly observations were carried out. 24 out of 24 observations were signed off. However, the Senior Coroner directed the jury that there was no evidence to indicate that any such failure in this regard caused or contributed to Rowan’s death.
+> 
+> At 12:54 on 3 October 2020, a staff member found Rowan on their bed appearing to be having a seizure. CPR was commenced at 12:57 and an oxygen mask was placed on Rowan, though the jury recorded that this appeared to be defective as it didn’t inflate. A call to emergency services was made at 13:03 and the paramedics arrived at Prestwich Hospital at 13:06, but were not able to arrive at the scene until 13:25. At this point the paramedics took over the care of Rowan and left by ambulance at 13:56. The ambulance arrived at North Manchester General Hospital at 14:06 and sadly Rowan was pronounced dead at 14:25.
+> 
+> A number of failings were admitted by GMMH prior to the inquest:-
+> 
+> There was a failure by staff on the morning rota to perform observations on Rowan on 3 October 2020 in line with his care plan.
+> Staff completed observation documentation detailing observations that had not in fact been undertaken on 3 October 2020.
+> There was a failure by staff to contemporaneously sign the observation sheet verifying the observations that were undertaken on 3 October 2020.
+> Staff signed the observation sheet indicating observations had been undertaken on Rowan when they themselves had not undertaken those observations but signed on behalf of another member of staff.
+> A failure by the Trust to have noted the correct telephone number of the Gardener Unit on the Trust’s internet.
+> A failure by the Trust in providing the caller from Salford Royal Hospitals with an email address that was in fact an internal email address to be used to retrieve voice mail messages rather than to receive emails.
+> In addition, a number of failings were also admitted by Northern Care Alliance:-
+> 
+> There was a failure by the Trust to continue attempts to contact the Gardener Unit to communicate the potassium result after 16:58hrs on 2 October 2020.
+> There was a failure by the Trust to ensure the potassium result remained on the DEPHO list for outstanding abnormal results, to ensure it was visible to laboratory staff that it was still outstanding and required escalation. The blood test results were removed from the DEPHO list at 14:42hrs on 2 October 2020, after which the Trust continued to attempt telephone contact with the Gardener Unit until this ceased after the final attempted call at 16:58hrs.
+> There was a failure by the Trust to have a contingency within its escalation policy making staff aware how to escalate issues with the communication of blood test results in the event of an inability to contact the Gardener Unit through agreed methods.
+> Following the jury’s findings, the Senior Coroner confirmed that she would be raising three issues in a Prevention of Future Deaths report, including: the ability for paramedics to navigate the Prestwich Site; whether blood test forms had been changed to include the correct contact details between GMMH and NCA; and the lack of CCTV being checked for observations made by staff at the Prestwich Site.
+> 
+> Rowan’s father, Marc Thompson, said: “I’m pleased that through the Coroner’s investigation we have identified a cause of death which brings me some solace, but tempered by the knowledge that Rowan’s death was totally avoidable. Culminating in the Jury concluding there was a ‘gross failure to provide basic medical care’ (neglect).
+> 
+> “Rowan was a brilliant and unique individual and not a day goes by that I don’t think about him.”
+> 
+> Lucy McKay, spokesperson for the charity INQUEST, said: “Rowan was a young person with serious mental and physical ill health. They were in the care of hospitals which should have kept them safe. Yet dysfunctional care and communication between medical professionals, evidenced at this inquest, was shambolic to the point of neglect.
+> 
+> “Rowan was one of three young people to die in the care of Prestwich Hospital, and one of many more to experience harm in the care of Greater Manchester Mental Health NHS Foundation Trust. The issues identified here are systemic at both a local and national level.
+> 
+> “INQUEST are calling for an urgent statutory public inquiry into deaths and serious incidents in metal health settings, to challenge the failing mental health and regulatory systems which continue to enable preventable deaths.”
+> 
+> Marc Thompson and Rowan’s wider family are represented by Kelly Darlington and the Inquests team at Farleys Solicitors and Ciara Bartlam of Garden Court North Chambers.
+> 
+> ENDS
+
+
+> Jury rules 'neglect' after teenager dies in Prestwich mental health unit
+> Monday 31 October 2022 at 6:58pm
+>
+> In a six-day inquest held at Rochdale Coroners Court, jurors heard that Rowan had 'severely low' levels of potassium before their death, but old out-of-service phone numbers and email issues meant blood test results were not communicated.
+> Credit: Manchester Evening News
+> A breakdown in communication which stopped vital blood test results reaching a Prestwich mental health unit contributed to a teenager's death, jurors have ruled.
+> 
+> Rowan Thompson who was an inpatient on the Gardener Unit, died on 3 October 2020.
+> 
+> In a six-day inquest held at Rochdale Coroners Court, jurors heard that the 18-year-old had 'severely low' levels of potassium before their death.
+> 
+> But old out-of-service phone numbers and email issues meant blood test results were not communicated from Salford Royal Hospital to Prestwich in time to save their life.
+> 
+> Rowan, who identified as non-binary and used the pronoun 'they', died following a seizure the next day.
+> 
+> Members of the jury were sent out to deliberate and after five hours of discussions, concluded that the lack of timely communication on Rowan's blood test results contributed to their death.
+> 
+> They also ruled that this amounted to 'neglect' - meaning 'a gross failure to provide basic medical care' as a result of the failure.
+> 
+> The inquest heard that Rowan, who was diagnosed with autism and depression, was first admitted to a mental health hospital after attempting suicide in 2016.
+> 
+> Following a second admission while living with their mum in southern England, Rowan moved to Barnsley, South Yorkshire, to live with their dad.
+> 
+> Rowan visited their mum for a weekend shortly after their 17th birthday.
+> 
+> Summing the evidence up to jurors this morning, coroner Joanne Kearsley said the weekend 'tragically ended with Rowan killing their mum and phoning the police', leading to them being detained under the Mental Health Act and transferred to the medium-secure Gardener Unit in Prestwich.
+> 
+> The court heard Rowan 'felt they had gained weight' on the Gardener Unit due to 'sugary treats', and they said they wanted to embark on more exercise and focus on three meals a day.
+> 
+> Rowan began losing weight, but insisted to medics that they had not been inducing their own vomit.
+> 
+> On 25 September 2020, Rowan collapsed in an episode 'they had not had before', the court heard.
+> 
+> Following tests, Rowan was found to have low blood pressure, which was linked to an increase in their trazadone medication.
+> 
+> A week later, Rowan had a blood test to establish a reason for their weight loss, which showed up 'severely low' potassium levels - a condition known as 'severe hypokalaemia'.
+> 
+> The sample was taken from Prestwich to Salford Royal Hospital on 2 October 2020.
+> 
+> The results were available by the early afternoon and the inquest heard that the results should have been communicated verbally 'within two hours'.
+> 
+> Dr Allamedine, clinical director at Northern Care Alliance, explained that an IT issue meant the results were not transferred electronically to the Gardener Unit.
+> 
+> Both phone numbers held at Salford and recorded on the Gardener Unit's website were also out of service, while an email address given by the Prestwich Site switchboard was also for Skype voice messages rather than written emails.
+> 
+> The results finally reached the Gardener Unit on 5 October 2020, but this was two days after Rowan's death.
+> 
+> Toxicologist Dr Stephen Morley told the inquest that Rowan's potassium levels had been 'life-threatening' but a timely admission to hospital could have saved their life, while Rowan's psychiatrist Dr Malik said he would have sent them to A&E straight away had he received the results at the right time.
+> 
+> The court heard Rowan was last seen out of their room in the morning of 3 October 2020, as they went to do some laundry.
+> 
+> Just nine out of 24 observations between 7am and 12.45pm were carried out and five members of staff at GMMH were found to have either falsified or failed to correctly carry out observation checks on the ward - but coroner Ms Kearsley told jurors this did not lead to Rowan's death.
+> 
+> The jury concluded that Rowan had been found having a seizure at 12.54pm and CPR began three minutes later.
+> 
+> A 999 call was made at 1.03pm and paramedics arrived at Prestwich Site at 1.06pm, but they were only able to find their way to Gardener Unit by 1.26pm.
+> 
+> Rowan was transferred to North Manchester General Hospital, where they were pronounced dead at 2.25pm.
+> 
+> Following deliberations, the jury gave the cause of Rowan's death as cardiac arrhythmia due to severe hypokalaemia of unknown cause.
+> 
+> While finding the breakdown in communication over Rowan's blood test results had contributed to their death, jurors also agreed the falsification of observation checks on the morning of their death were matters of fact in the case, although this did not contribute to Rowan's death.
+> 
+> Following the jury's findings, coroner Ms Kearsley confirmed three issues she would raise in a prevention of future deaths report - including the ability for paramedics to navigate Prestwich Site, which had caused a delay, and whether blood test forms had been changed to include the correct contact details between GMMH and Northern Care Alliance.
+> 
+> Ms Kearsley also criticised the lack of CCTV being checked for observations made by staff at Prestwich Site, noting a previous audit found 11 members of staff had not carried out checks properly.
+> 
+> She said: "Whilst I heard evidence around the auditing of observation sheets, one questions the worthiness of those if the CCTV is not checked also."
+> 
+> During the inquest, Rowan's father Marc Thompson described them as an 'enigma' and a 'quirky individual', with a 'great sense of humour' and a 'strong sense of right and wrong'.
+> 
+> Following the inquest, Mr Thompson said : "I’m pleased that through the coroner's investigation we have identified a cause of death which brings me some solace, but tempered by the knowledge that Rowan’s death was totally avoidable - culminating in the jury concluding there was a 'gross failure to provide basic medical care' (neglect).
+> 
+> "Rowan was a brilliant and unique individual and not a day goes by that I don’t think about them."
+
+
+
+
+> A campaign group has called for an 'urgent review' of Greater Manchester's mental health trust following the death of a teenager at Prestwich Hospital, a coroner has heard.
+> 
+> Rowan Thompson, who used the pronoun 'they', was found dead at the Gardener Unit at the mental health hospital on October 3 last year.
+> 
+> The 18-year-old had been due to stand trial later that month for the murder of their mum, Joanna Thompson, 50.
+> 
+> They had denied murder, but previously pleaded guilty to the mother-of-two's manslaughter.
+> 
+> READ MORE: 'Desperate' illegal immigrant told he'd be killed if he didn't work at cannabis farm
+> 
+> At a pre-inquest hearing at Rochdale Coroners' Court on Friday (September 17), senior coroner Joanne Kearsley said Rowan's cause of death was currently 'unascertained'.
+> 
+> Rebecca Titus-Cobb, a lawyer representing Rowan's family, told the inquest the family had a number of concerns regarding Rowan's treatment while on the unit.
+> 
+> She said there were 'systemic issues regarding observation of patients on the unit', and that the campaign group Inquest had contacted the Care Quality Commission to express concerns following a number of deaths, including Rowan's.
+> 
+> She added: "The family understand that Rowan's death was one of four recent deaths across Greater Manchester Mental Health Trust units, Junction 17 and the Gardener Unit where Rowan passed away.
+
+
+> My trans child went into hospital and didn't come home alive. This is what needs to happen now
+> "When you have three deaths that are so similar in a short space of time you have to start looking at the strategic management of the unit."
+> 
+> men
+> 
+> Marc Thompson (L) and Sam Millers (R) outside the Prestwich Unit where their sons both died (Image: Manchester Evening News)
+> Twenty four hours after the first anniversary of her child's death Sam Millers was tying a banner to railings.
+> 
+> As Storm Barra whipped up rain and a biting wind she was picketing the entrance to Prestwich Hospital with another grieving parent, Marc Thompson.
+> 
+> They come from different walks of life and different ends of the country. Marc is from rural Hampshire, and Sam is from Old Trafford.
+> 
+> But both know the pain of losing a child in the very place that was supposed to keep them safe.
+> 
+> Marc's son, Rowan, 18, and Sam's child, Charlie, 17, were both in-patients at the Prestwich Hospital when they died.
+> 
+> They were two of three young people who died there over nine months, and so now their loved ones are demanding an independent investigation.
+> 
+> As well as their shared grief, Marc and Sam both understand the challenges faced by young people who are gender nonconforming.
+> 
+> Rowan was non-binary, meaning he did not identify as male or female, while Charlie was trans.
+> 
+> "(Charlie) was about to start on a medical pathway, but they couldn't commence that due to his mental health," Sam said.
+> 
+> "He was very supportive to other people with LBGT needs."
+> 
+> The mother added: "Charlie was about four or five when he began referring to himself as a boy.
+> 
+> "He was a tomboy during earlier childhood, then aged 11 he said he felt like a boy, and at 12 had his hair cut short and began living as a boy."
+> 
+> With their children's faces on a six foot placard, the campaigners handed leaflets to members of the public. They have also started an online petition.
+> 
+> Speaking of the protest, Sam said: "Our aim is to get NHS England's attention to do an investigation into the deaths.
+> 
+> "The fact that there has been three deaths in nine months is not acceptable.
+> 
+> "I know they are separate deaths but collectively we think the same issue arises - observation failings. I feel if NHS England get involved they can find out the facts."
+> 
+> Charlie's death came in December 2020. The former Manchester College pupil had a history of self-harm and was under observation at the time he became fatally ill.
+> 
+> He had been seen with ligatures around his neck three times before he was found alone and unresponsive, with a fourth ligature around his neck. He died five days later.
+> 
+> Sam says that she was told her son was being checked on once every five minutes at the time he was fatally injured. She believes he should not have been left alone at all at the time.
+> 
+> Rowan's death, two months earlier, remains mysterious.
+> 
+> He was being checked on every 15 minutes because of concerns about self-harm.
+> 
+> He had been experiencing weight loss in the last weeks of his life, at one stage collapsing, and had been undergoing blood tests.
+> 
+> The day before he died, a sample indicated he had 'very low' levels of potassium.
+> 
+> But the lab was unable to reach anyone at Prestwich Hospital to alert them, despite trying several times, and Rowan died the day after, with the cause of death still unascertained.
+> 
+> The M.E.N has seen a draft copy of a Serious Incident Review done by the Greater Manchester Mental Health NHS Foundation Trust following Rowan's death.
+> 
+> It found that in Rowan's case, 'staff...did not follow Trust policy regarding observations' and 'the abnormal blood results were not communicated to the Unit due to a range of issues.'
+> 
+> The third young person to die was Ania Sohail, 21, in June last year.
+> 
+> She became ill after becoming drowsy during dinner, before saying she had taken a large amount of medication.
+> 
+> The opening of an inquest in July heard it's not yet known how she got that medication. She too was at risk of self-harm, and was on a routine of five-minute observations, ie check-ups.
+> 
+> Demanding answers, the grieving families of Charlie Millers and Rowan Thompson
+> "When you have three deaths that are so similar in a short space of time you have to start looking at the strategic management of the unit," Marc Thompson told the Manchester Evening News.
+> 
+> "That is not effectively being done by the Trust, and that's where we need NHS England.
+> 
+> "We know that the issues with staffing problems at Prestwich were there prior to Covid taking place.
+> 
+> "We have documented evidence in Rowan's Serious Incident Review that he was unable to attend college which is less than 100 yards from the ward because they didn't have a staff member to escort him to his classroom.
+> 
+> "This is about management, a lack of staffing a strategic vision from the middle and higher management of an NHS Trust.
+> 
+> "We believe they need to be held accountable for their decisions and lack of staffing, because we believe that has in part caused the death of my child, the death of a second child, and a third.
+> 
+> "How many deaths does it need for them to pull their finger out, say we need to sort our staffing levels out, because these are national centres?
+> 
+> "They are taking patients from around the country because they are a vital service.
+> 
+> "If you haven't got the staff you can't take the patients in because you can't deliver the quality of care that is needed.
+> 
+> "In that aspect we believe that Greater Manchester Mental Health NHS Trust have failed.
+> 
+> " I am quite happy to wait three or four year after his death to let NHS England get to the root of the problem.
+> 
+> "Rowan's and Charlie's deaths are symptoms of a bigger problem. If we don't deal with the bigger problem how many more children are going to die?"
+> 
+> Where are the coronavirus support groups near where you live? Find out by adding your postcode.
+> 
+> The Manchester Evening News has put all of campaigners' claims to the trust, who have told us that the 'highest quality care and treatment is at the heart of everything we do'.
+> 
+> However, it is not just the parents of Charlie Millers and Rowan Thompson who have anxieties about the safety of patients under the care of Greater Manchester Mental Health Trust.
+> 
+> In September the Care Quality Commission conducted an unannounced inspection, 'due to on-going concerns about the safety of services'.
+> 
+> In the report that followed, the watchdog said it was 'very concerned' about the safety of people using the services of Greater Manchester Mental Health NHS Trust.
+> 
+> They said their inspectors found there was not always enough nursing staff and that permanent staff did not feel safe if bank or agency workers were used as they didn't have the relevant training.
+> 
+> The charity INQUEST, who campaign with families whose loved ones have died in the custody or care of the state, are also concerned.
+> 
+> The charity believes that the trust's internal investigations don't go far enough.
+> 
+> The Manchester Evening News has seen a copy of a letter sent in December by INQUEST Executive Director, Deborah Coles, to Amanda Pritchard, Chief Executive of NHS England.
+> 
+> In it, Ms Coles writes: "INQUEST is extremely concerned to have learnt of this cluster of deaths in the same area, including two self-inflicted deaths, involving children and young people within a 10-month period.
+> 
+> "These deaths raise serious questions about the quality of treatment, care and patient safety and we believe they warrant a full and independent investigation."
+> 
+> She adds: "We are of the view that such an investigation is justified on the basis that at least two of these deaths were self-inflicted deaths involving very vulnerable children and young people, in settings where they should have been safe and therefore represent significant systemic service failures.
+> 
+> "It does not inspire family confidence to have a Trust investigate itself over a pattern of disturbing deaths.
+> 
+> "It is essential that this investigation be independent of staff and employees of the Trust.
+> 
+> "We believe this is the only way of ensuring the families’ and public confidence in the investigatory process and the hope that it can contribute to improved patient safety and the prevention of future deaths."
+> 
+> An inquest into Charlie's death will take place in February.
+> 
+> "I know it will take a long time to get answers," his Sam Millers said.
+> 
+> "I have not got my son, I have not had him for a year because of that place.
+> 
+> "We are getting support from staff at the unit who telling us we are doing a good thing and to keep going.
+> 
+> "They have concerns themselves. I think the issues that need looking at are management, a shortage of staff and lack of training and knowledge."
+> 
+> Rowan's inquest is scheduled for June this year.
+> 
+> He was accused of murdering his mother and was due to stand trial the week after he was found collapsed.
+> 
+> He denied murdering Joanna Thompson, 50, at the family home in the village of Hambledon, Hampshire, but had previously pleaded guilty to the mother-of-two's manslaughter.
+> 
+> Rowan's father, Marc said at the protest: "I am here to support Sam because I believe that Charlie's death was totally avoidable.
+> 
+> "When Rowan passed away there were issues with observations and the Trust has acknowledged that.
+> 
+> "The management team of his ward also managed Charlie's unit. Yet within three months there's another death where observations of patients are key.
+> 
+> "I know people will say there have been independent reviews done within the Trust and those Serious Incident Reviews have given us a lot of information and shone light on issues within the Trust.
+> 
+> "But they are not truly independent."
+> 
+> Asked to comment on the call for an inquiry by NHS England and the claims made by Marc Thompson and Sam Millers, the Trust said: "We have nothing further to add to our previous statements."
+> 
+> Responding to the M.E.N's enquiries about the series of deaths, Gill Green, director of nursing and governance at Greater Manchester Mental Health NHS Foundation Trust (GMMH) said in July this year: “The death of a service user is always an extremely tragic and distressing event, and we continue to send our heartfelt condolences to all those who have been affected.
+> 
+> 
+> Prestwich Hospital
+> “At GMMH, providing the highest quality care and treatment is at the heart of everything we do, and we are committed to continuous learning and improvement in order to achieve this.
+> 
+> “We treat the death of a service user with the utmost seriousness.
+> 
+> "In the event of a serious incident or death, we follow a rigorous review process to understand the circumstances in which it happened.
+> 
+> "We develop thorough recommendations, which are translated into a detailed action plan to reduce the risk of such incidents ever happening again.
+> 
+> "The completion of this action plan is closely monitored and highly prioritised.
+> 
+> “We recognise the value of the insight that the loved ones of our service users bring to this process.
+> 
+> "Throughout, we work closely with families and carers to ensure their thoughts and observations are heard, and to offer continued support at these times of tragedy.
+> 
+> “We foster an open and honest culture across the Trust, and always encourage staff to speak freely about any mistakes they have made or areas for improvement they have observed.
+> 
+> "We work closely with our staff to learn and grow as an organisation from these experiences.”
+> 
+> An online petition via change.org calling for an NHS England inquiry has just under 500 names.
+
+https://www.manchestereveningnews.co.uk/news/greater-manchester-news/trans-child-went-hospital-didnt-22453155
+
+https://www.mirror.co.uk/news/uk-news/my-trans-child-went-hospital-25904150
+
+
+
+https://x.com/Esqueer_/status/1814337011056267732
+
+https://www.inquest.org.uk/rowan-thompson-inquest-concludes
+
+https://www.manchestereveningnews.co.uk/news/greater-manchester-news/breaking-jury-rules-neglect-prestwich-25399556
+
+https://www.itv.com/news/granada/2022-10-31/jury-rules-neglect-after-teenager-dies-in-prestwich-mental-health-unit
+
+https://www.msn.com/en-gb/health/other/nhs-trust-suspends-staff-after-alleged-mistreatment-of-patients-in-mental-health-unit/ar-AA12aIcS
+
+https://www.examinerlive.co.uk/news/uk-world-news/our-teenage-children-went-hospital-22696098
+
+https://www.portsmouth.co.uk/news/people/inquest-hears-rowan-thompson-stabbed-his-mother-joanna-118-times-fatal-attack-hambledon-3067731
+
+
+
+https://news.sky.com/story/charlie-millers-jury-considers-conclusion-over-death-of-transgender-boy-who-was-treated-on-mental-health-ward-13122211
+
+https://www.mirror.co.uk/news/uk-news/mums-anguish-after-son-dies-23169100
+
+https://www.justgiving.com/crowdfunding/paul-chapman-278?utm_term=j4WbRzz3Z
+
+https://www.facebook.com/inquestUK/posts/-rowan-thompson-18-died-october-2020-charlie-millers-17-died-december-2020-ania-/10159484131071655/
+
+
+
+> Trust ordered to produce report after deaths of three patients at Prestwich Hospital
+> "We are cooperating fully with the inquest process and will share the findings of our report with the families, our commissioner, NHS England, NHS Improvement, and the Coroner."
+> 
+> 20:15, 6 MAR 2022
+> 
+> The Prestwich mental health unit where three young people died in nine months (Image: MEN Media)
+> A new report is to be produced into the deaths of three young people at the same mental health unit.
+> 
+> Rowan Thompson, 18, died at the Prestwich Mental Health Unit, Bury, in October 2020, followed by Charlie Millers, 17, in December that year, and Ania Sohail, 21, in June last year.
+> 
+> Now the hospital's trust, Greater Manchester Mental Health NHS Foundation Trust, is to commission an 'external report' to which NHS England will have input in deciding its terms of reference.
+> 
+> The plan has been criticised by Charlie's mother, Samantha Millers, and Rowan's father, Marc Thompson, who have called for NHS England to conduct its own investigation.
+> 
+> 
+> Marc Thompson (L) and Sam Millers (R) outside the Prestwich Unit where their sons died (Image: MEN Media)
+> The grieving parents, who say observation practices at Prestwich need to be improved, do not accept NHS England and the hospital trust's assurances that the report will be 'independent'.
+> 
+> Observations are checks by staff on in-patients to confirm their safety, carried out continuously or at specific intervals, such as every five, 10 or 15 minutes.
+> 
+> Charlie Millers, who had a history of self-harm and receiving in-patient treatment, was found unresponsive in his room in the Junction 17 wing of Prestwich Hospital on December 2, 2020. He was given CPR at the scene and taken to Salford Royal Hospital but died five days later.
+> 
+> A Serious Incident Review done by the trust said that Charlie was seen with ligatures around his neck three times in the hours before he was found unresponsive with a ligature around his neck.
+> 
+> The review says he was alone at the time when he was found unresponsive in his room.
+> 
+> 
+> Charlie Millers (Image: MEN Media)
+> Charlie's mother told the M.E.N that she was told her son was being checked on once every five minutes at the time he was fatally injured. She believes he should not have been left alone at all at the time.
+> 
+> He had previously had one-to-one monitoring because of his history of self-harm and attempts on his own life, the review says.
+> 
+> It reveals that at the time he was found unresponsive he had only been back at the unit for two-and-a-half hours, after having been on home leave.
+> 
+> An inquest was due to open on February 28 into Charlie's death but it has now been adjourned by the Coroner to a later date in view of the external report.
+> 
+> 
+> Rowan Thompson (Image: MEN Media)
+> The M.E.N has seen a draft copy of a Serious Incident Review done by the Greater Manchester Mental Health NHS Foundation Trust following the death of Rowan Thompson, who died weeks before Charlie.
+> 
+> At Prestwich he had observations every 15 minutes because of concerns about self-harm.
+> 
+> The review, a copy of which was sent to Rowan Thompson's father, said 'there were shortfalls in how the observations were carried out' on the day of his death. However it added that 'there was also evidence of good practice when a random audit of CCTV footage was carried out.'
+> 
+> The review describes how Rowan, who was being treated at Prestwich's Gardener Unit after being sectioned under the Mental Health Act, had undergone blood tests after experiencing weight loss.
+> 
+> The sample was processed the day before he died at a laboratory at Salford Royal Hospital and it indicated that he had 'very low' levels of potassium. But the lab was unable to reach anyone at Prestwich Hospital to alert them, despite trying several times.
+> 
+> The following day Rowan died. His cause of death is not yet known. The review found that 'staff on The Gardener Unit did not follow Trust policy regarding observations' and 'the abnormal blood results were not communicated to the Unit due to a range of issues.'
+> 
+> A date is yet to be set for a full inquest into the death of the third youngster, Ania Sohail.
+> 
+> But at an inquest opening hearing in July last year it was revealed that Ania died after becoming drowsy during dinner, at the junction 17 unit for adolescents and young people at Prestwich, before saying she had taken a large amount of medication.
+> 
+> The inquest heard that it is not known how Ania, who had been at risk of self harm and had been on five minute observations, obtained the medication. A date is yet to be set for a full inquest.
+> 
+> Gill Green, Chief Nurse for Greater Manchester Mental Health NHS Foundation Trust said of the latest developments: "The Trust has been asked by NHS England and NHS Improvement to commission an independent report into the three tragic incidents; to be undertaken by an external organisation to ensure complete neutrality wherever possible. This is in addition to conducting our own robust reviews into each of the incidents.
+> 
+> "We are cooperating fully with the inquest process and will share the findings of our report with the families, our commissioner, NHS England, NHS Improvement, and the Coroner."
+> 
+> Asked when the report would be complete and who would carry it out a spokesperson for the Trust said it was "too early in the process" to say.
+> 
+> 
+> Prestwich Hospital
+> In a statement NHS England said: "I can confirm that following discussion with the trust, NHS England and NHS Improvement recommended that the trust commission an independent report in order to ensure complete neutrality in that work. We will be supporting the trust to determine the terms of reference for that work to ensure it is robust and independent."
+> 
+> The Manchester Evening News understands that an internal Trust investigation into Ania's death is not yet concluded.
+> 
+> It is understood that once the local investigations by the Trust conclude then the intention is for the Trust to commission the external review to look into the learning from these deaths and an overview of the Trusts systems and processes to determine wider learning.
+> 
+> Rowan's father, Marc, told the M.E.N this was 'totally inadequate'.
+> 
+> "This is management politics and image control," he said. "It is stalling a full investigation into the management and culture of the Trust.
+> 
+> "It is not even going to be an external investigation. It is a review - looking into the learning from these deaths - not the causes, not the underlying problems.
+> 
+> "In my view it is totally inadequate. It will not have the same scope that an investigation by NHS England would have, or the power.
+> 
+> "We will have to put our faith in NHS England, that they do ensure the terms of reference are robust.
+> 
+> "But the Trust commissioning the report puts control of the process in the hands of the people under investigation."
+> 
+> 
+> Samantha Millers with a portrait of Charlie (Image: MEN Media)
+> Charlie's mother, Samantha Millers, from Old Trafford, added: "Our aim is to get NHS England's attention to do an investigation into the deaths.
+> 
+> "The fact that there has been three deaths in nine months is not acceptable.
+> 
+> "I know they are separate deaths but collectively we think the same issue arises - observation failings. I feel if NHS England get involved they can find out the facts."
+> 
+> To get the latest email updates from the Manchester Evening News, click here.
+
+
+https://www.msn.com/en-gb/news/other/review-into-deaths-of-three-young-people-at-prestwich-hospital-to-be-published-this-month/ar-AA11x1FQ
+
+https://www.manchestereveningnews.co.uk/news/greater-manchester-news/trust-ordered-produce-report-after-23185141
+
+
