@@ -1,0 +1,51 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2026-03-23T18:59:42+00:00
+
+====== N (Illlenau Asylum - 1874) ======
+Created Monday 23 March 2026
+@medical
+
+
+N
+32
+1874
+Illlenau Asylum (ref: https://museumofthemind.org.uk/projects/european-journeys/asylums/achern-illenau-asylum)
+Achen
+Baden
+Germany
+tuberculosis
+
+
+> The importance of N
+> 
+> The roots of Britain’s Trans+ healthcare system go as far back as 1865, to the ideas of a German psychiatrist called Richard von Krafft-Ebing. 
+> 
+> That year, a 23-year-old pianist named only as ‘N’ was taken to the Illenau asylum in south-west Germany. Around 400 people were incarcerated in the purpose-built asylum, sleeping together in single-sex dormitories of up to 20 people.
+> 
+> N was kept at the Illenau for nine years and died there, of tuberculosis, at the age of 32. Her dead body was cut into pieces, which were measured and examined under a microscope: a “normal” skull, “anaemic brain” with “atrophic” frontal lobes and “shrunken” ganglion cells, “very large” genitals and “small, lax” testicles. 
+> 
+> N was one of hundreds of thousands of people who died in Europe’s asylums as they expanded throughout the 18th and 19th centuries. Unlike most of those people, we still have some actual information about N.
+> 
+> That’s because in 1886, Krafft-Ebing published Psychopathia Sexualis, a text containing some of the earliest Western medical descriptions of people with what was then termed “the delusion of sexual transformation”. N was one of Krafft-Ebing’s case studies, who he diagnosed as being at the “final possible stage in this disease-process”. From what we know of N, she might today be diagnosed with gender dysphoria.
+> 
+> Krafft-Ebing wrote that N was sent to the asylum because of “typical paranoid delusions” with “sexual symptoms”. She’s described by him as “weakly and dull” as a child, “always of abnormal character; silent, retiring, unsocial, and sullen. [She] practiced masturbation after fifteen… During the last year [she] had worked with great difficulty.”
+> 
+> These judgments of N’s childhood, character, masturbation practices and ability to work are telling, because psychiatrists still use them to decide whether a person is transgender, and whether they should be allowed to medically transition. 
+> 
+> Trans+ people attending UK gender clinics today are asked about their work, family, friends, childhood and character. The psychiatrist’s letter confirming my diagnosis of gender dysphoria referenced that I was in full-time work and supported by family and friends to transition.
+> 
+> And like mine, N’s gender apparently fluctuated between masculine and feminine during her time locked in Illenau. But towards the end, from December 1872, Krafft-Ebing writes that “[her] personality became completely feminine” and “from that time [she] remained a woman”. N’s “delusion” that she was a woman “could no longer be corrected”. We don’t know how the asylum tried to “correct” N’s gender.
+> 
+> Another German psychiatrist, Emil Kraepelin, had his own ideas that came to interact with Krafft-Ebing’s thinking. In Mad World: The Politics of Mental Health, Micha Frazer-Carroll explains how Kraepelin promoted the idea that disorders of the mind could be categorised like physical diseases.
+> 
+> People who wanted to change their gender were considered to have a mental disorder, as were those who heard sounds and voices that others don’t (auditory hallucinations), and those who desired people of the same sex – homosexuality was classed as a psychiatric disorder until 1968. 
+> 
+> Kraepelin was influenced by the founder of eugenics, Francis Dalton (Charles Darwin's cousin), who said there was such a thing as a “biologically ‘normal mind’.” Any overlap between different mental disorders in one person was treated suspiciously; something we still see today when, for example, autistic Trans+ people seeking gender-affirming healthcare face disbelief that they can ‘really know’ their gender.
+> 
+> Krafft-Ebing was busy categorising the abnormalities of those he called ‘sexual deviants’, and Psychopathia Sexualis was widely read by European psychiatrists. His theories influenced how Trans+ and queer people were treated by Western medicine – in both European countries and the countries they colonised. 
+> 
+> Today, many of those countries still criminalise being gay or Trans+ – a hangover of colonial laws that originate from the same era when Western medical ideas about how to treat Trans+ people formed. And like those colonial laws, Western ideas about what transness looks like still proliferate through the contemporary gender clinic system.
+
+
+https://www.wearequeeraf.com/a-brief-history-of-how-the-uks-broken-trans-healthcare-system-only-serves-its-cisgender-doctors/
