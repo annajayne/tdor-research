@@ -2,15 +2,18 @@ syntax: glob
 *.bak
 *.log
 *.jpg
+*.lnk
 *.pdf
 *.pnps
 *.zip
 *.7z
 *.rej
+IMG_*.*
 
 Drafted.txt
 Missing.txt
 Misc.txt
+Notes.txt
 Published.txt
 Triage.txt
 Unconfirmed.txt
@@ -25,4 +28,3 @@ Missing/*
 Triage/*
 Unconfirmed*/*
 Updates/*
-
