@@ -1,0 +1,63 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2026-09-25T09:25:53+01:00
+
+====== Sherry Yue (Taiwan - 16 Apr 2026) ======
+Created Friday 25 September 2026
+@suicide
+
+
+Sherry Yue ("玥餅 Yuèbǐng") [邱梓榳 Chiu Zi Ting]
+26
+16 Apr 2026
+Taiwan
+suicide
+
+
+Yo-Ling Chen
+
+Dear tdor.translivesmatter.info team,
+
+My name is [redacted] and I am a trans activist from Taiwan. I am writing you today to report/request a suicide that happened in Taiwan be added to your database. There were actually two suicides here this year, but I am still communicating with the first circle of grievers for the other suicide to see whether they would want the deceased to be commemorated internationally. I will follow-up on this email for reporting the second case if and only if the first circle of grievers wish for their sister to be commemorated internationally.
+
+The case that I have confirmed would like to be commemorated internationally, and whom was a personal friend, I have written about here. Her name in English was Sherry Yue (she/they), her legal name in Mandarin Chinese was 邱梓榳 Chiu Zi Ting, but we all knew her affectionately as 玥餅 Yuèbǐng. 
+
+
+
+
+> Dear Sherry: A Daybreak Digital Memorial
+> Avatar photoYo-Ling Chen09/22/2026EnglishGender/SexualitySeptember 2026Social Movements
+> by Yo-Ling Chen
+> English
+> 
+> The following letter serves as a digital memorial to Sherry Yue (she/they; 邱梓榳 Chiu Zi Ting, known affectionately as 玥餅 Yuèbǐng by her friends), who died by suicide on April 16, 2026 at the age of 26. It is written by one of Sherry’s friends and fellow trans activists, Yo-Ling Chen, a contributing editor at New Bloom who worked with Sherry and an early iteration of the Trif Trans Bar team to establish Taiwan’s first trans bar in New Bloom’s events/community space, Daybreak (破曉咖啡). Sherry was a minimalist, vegetarian, front-end engineer who enjoyed reverse-engineering things for fun, and someone who loved life with an adventurous passion the year before her departure.
+> 
+> Dear Sherry,
+> 
+> I am so, so sorry that I missed your funeral…
+> 
+> I know that you wouldn’t want to see me beating myself up over this, and I also know that you would have appreciated the various kinds of work I was buried under that led to the insomnia, which led to me mixing up the funeral time, which led to me arriving to an empty ceremony hall at the exact moment your body was in the final stages of cremation. I rushed to the crematorium hoping that I would at least see a part of you one last time—a single wisp of smoke from the chimney, that would have been enough. But that’s not how modern crematoriums work.
+> 
+> Don’t worry, I’m not actually beating myself up over this. I am, however, thinking about you, our friendship, ways to honor your memory now over five months since your departure, and the way that grief sticks to place. Hence why I am writing you this letter, which you will never receive since you are no longer with us, in a language we never communicated in, and with a degree of publicity that our relationship never had.
+> 
+> The ceremony hall and the crematorium mean nothing to me, just a misplaced hope with bad timing. Trif’s old apartment where we first met in the spring of 2023 also means nothing to me, as Trif already moved out to start a new life in Denmark over a year ago now. But Daybreak, that’s another story—a story I feel is slipping from collective memory as the pace of our events continues to hasten, as the membership of our all-volunteer management team turns over in its usual one to two-year cycles, and as the space itself takes a life of its own that extends beyond yours.
+> 
+> Those of us in Taiwan’s transgender community whose hearts were repeatedly warmed by your unforgettable smile know this story. I made sure of it when I was MCing the memorial event we held for you in late May. But every other trans and nonbinary person who walks in and out of that swinging glass door, especially those who are not from Taiwan or are just visiting, they don’t even know who you are. Nor do transgender people abroad who have benefitted from your contributions to building Daybreak as a trans social hub in Taipei—such as beneficiaries of New Bloom’s mutual aid initiative to support India’s transgender community, a significant amount of donations to which have been done in-person during our regular trans community programming. And it bothers me, to be honest, because Daybreak is where I saw you the most, and because this is the place where you selflessly contributed to building Taiwan’s first public trans bar with us. I want them (the people reading this letter) to know that. I want them to know, at least in some small way, you, because you have, at least in some small way, already touched their lives whether they know it or not.
+> 
+> Many people look at Daybreak today and wrongly assume that it just appeared out of thin air. In reality, it was built in early 2022 from scratch on a shoestring budget by an all-volunteer team led by a core team of four people, all of whom took no labor compensation, and was physically put together from donated supplies, funds, and the Taipei bourgeoisie’s furniture that they leave out on the side of the road during Spring Festival cleaning. The actual bar that would become Taiwan’s first trans bar was pieced together from IKEA countertops and custom-cut wood from a local supplier (a special thank you is due here to the handy butches who took lead on bar construction). By the time we met over a year later in the spring of 2023, Daybreak had just settled into a place where we were, on average, breaking even on operational costs each month. What would be considered standard equipment for other businesses, such as a fully automated point-of-sale (POS) and receipt-issuing system, was a luxury we did not have at the time.
+> 
+> You were there for the first T&N Party we hosted at Daybreak on May 1, 2023. That was the start of turning Daybreak into a space suitable to run Trif Trans Bar out of. You noticed that we were still hand-writing receipts and jotting orders down on post-it notes, and saw how much the bartenders were struggling with the lack of a proper bar ordering workflow. So, without anyone asking, you used your front-end engineering skills to build us an online ordering system, which attendees used to place orders from their mobile devices, which the bartenders would then see on Trif’s spare monitor at the bar upstairs and update the order-number progress on, which would then be visible to attendees downstairs so they knew when to come up and get their orders. By the time we hosted the second T&N Party on August 19, 2023, you had all of that set up for us. I remember breathing the biggest sigh of relief seeing it work flawlessly that day. I don’t think it’s hyperbole to say that T&N Party and Trif Trans Bar would not have been able to find a home at Daybreak if it weren’t for your crucial contribution. There is no way in hell that we could have sustainably accommodated the regular 50 to 60 T&N Party crowd volume with a post-it note ordering system, let alone quadruple that number of the 200+ Trans March After Party crowd volume we started drawing in every year starting October 27, 2023.
+> 
+> I’ve been clicking through the online ordering system you built us on and off these past few months thinking about how to make all of this legible to an audience who did not know you and did not experience this crucial set-up period in 2023 for establishing Trif Trans Bar at Daybreak. While Daybreak started slowly using and implementing iChef as our actual POS system by the late spring of 2024, the trans bar ordering system you built continued to be used and improved upon by other members of the Taiwanese trans community with software engineering backgrounds, namely An An Q (安安Q). It is a testament to the efficacy of the ordering system you built and the ways others improved upon its basic architecture that it wasn’t until the summer of 2025 that we transitioned Trif Trans Bar menu items onto a single consolidated Daybreak iChef system. Throughout this process, there were many other Taiwanese trans community members who contributed their time and talents like you did. Nonetheless, in my mind at least, I will always think about you as the first person who made the baton to begin with before it was passed on.
+> 
+> I remember the last time I saw you in person was during the T&N Party on July 27, 2024, where we were using the improved version of your ordering system. And then I was away from Taiwan for conferences and family visits in the United States from that fall until February of 2025. By your own account, you were by then already living the best year of your life. You went diving, surfing, learned how to snowboard, had multiple excursions with your closest circle of friends, and “fell in love with life.” I still scroll through your social media accounts every now and then to remind myself of the joy you felt during your last year with us. All of the animal cafes, petting zoos, and bird museum posts are my favorite. I recognize the same smile on your face as I have on mine when in the presence of animals. If circumstances were different, I would have loved to have gone with you on one of these trips. I don’t think any of us knew that the best year of your life would also be your last.
+> 
+> I’ll stop myself here before I share more grief in public than I plan to. The point of writing this letter is so that other trans and nonbinary people who cross paths with Daybreak—either in-person or through our trans-related programming—can get to know just a small part of you. I could feel the collective memory of how you helped build Daybreak into the trans social hub that it is now start to slip away these past few months. Every inch of slip, a sting. May this last conversation between us help to preserve that memory and extend your circle of commemoration.
+> 
+> We will never forget you.
+
+
+https://newbloommag.net/2026/09/22/sherry-yue-daybreak-digital-memorial/
+
+https://www.instagram.com/p/DdkyLDBiRCa/
+
