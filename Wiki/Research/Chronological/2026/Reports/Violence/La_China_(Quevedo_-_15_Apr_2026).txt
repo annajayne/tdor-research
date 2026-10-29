@@ -1,0 +1,107 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2026-10-16T23:03:30+01:00
+
+====== La China (Quevedo - 15 Apr 2026) ======
+Created Friday 16 October 2026
+@violence
+
+						
+La China
+32
+15 Apr 2026
+Calle Décima, between Avenida 7 de Octubre and Calle Bolívar
+Centro
+Quevedo
+Los Rios
+Ecuador
+-1.0277162724175941, -79.46738117560109
+shot
+
+
+> La China, a 32-year-old trans woman, was shot to death by unknown individuals. She was a sex worker. 
+
+
+> TRANSFEMICIDE IN QUEVEDO:
+> 
+> "LA CHINA" SHOT DEAD IN THE CITY CENTER
+> 
+> The Ecuadorian state has a victim's name: La China. Quevedo, Los Ríos — April 17, 2026.
+> 
+>  CASE DATA — RUNA SIPIY REGISTRATION 2026
+> 
+> Known name	"La China" (identity adopted and recognized by her community)
+> Registered legal name	KM – China
+> Age	32 years old
+> Identity	Trans woman — SOGI Category: Gender Identity
+> Date of the event	Wednesday, April 15, 2026, 11:43 PM
+> Exact location	Calle 10 (Décima) between 7 de Octubre and Bolívar, central district, Quevedo, Los Ríos
+> Mechanism of death	Multiple gunshots by unknown individuals
+> Runa Sipiy Typification	Transfemicide — Subcategory: Extrajudicial execution by unknown actors
+> Internal coding	SX-LR-2026-150426
+> Initial state response	ECU-911 activated; October 7 Alpha Unit; Criminalistics and DINASED on scene
+> Case status	UNDER INVESTIGATION — No arrests as of the date of this bulletin
+> INSTITUTIONAL STATEMENT — LEGAL CLINIC X / SILHOUETTE ASSOCIATION X
+> 
+> The Legal Clinic X , the specialized legal arm of the Silueta X Association , administrator of the Runa Sipiy Observatory since 2013 , in conjunction with the Ecuadorian Federation of LGBT+ Organizations (73 national collectives), the National Platform for Trans Revolution – CoaliTrans (22 national trans collectives) and the Quito Coalition for Pink Resistance (8 local collectives), condemns in the strongest possible terms the murder of the woman known as "La China ," a 32-year-old trans woman, who was shot dead in the street in Quevedo, Los Ríos province, on the night of April 15, 2026.
+> 
+> This crime is not an isolated incident. It constitutes the materialization of a systematic pattern of lethal violence against trans women in Ecuador, which the Runa Sipiy Observatory has been continuously documenting since 2013 and which the Ecuadorian State has been unable to stop, prevent, or effectively punish.
+> 
+> From Legal Clinic X, an agency specializing in the criminal classification of gender crimes and strategic litigation, we believe that this murder should be investigated under the criminal classification of transfemicide, in accordance with the standards of enhanced due diligence established by the Inter-American Court of Human Rights and the guidelines of the Minnesota Protocol for the investigation of potentially unlawful deaths.
+> 
+>  CRIMINOLOGICAL AND LEGAL-FORENSIC ANALYSIS
+> 
+1. > Situational context of the event
+> 
+> The murder of "La China" occurred in a public place, on Tenth Street in downtown Quevedo, at 11:43 p.m., a time when transgender sex workers are most active in the area. The nature of the attack—a barrage of gunfire by unknown assailants without warning—exhibits the characteristic pattern documented by the Runa Sipiy Observatory in transfemicides perpetrated with the involvement of organized crime actors or their territorial networks.
+> 
+2. > Applicable legal classification
+> 
+> From the perspective of Legal Clinic X, the case meets the criteria for classification under Article 141 of the Comprehensive Organic Criminal Code (COIP) — Femicide, with the aggravating circumstance of Article 47, paragraph 11 of the COIP (crime motivated by gender identity prejudice), a classification that must be activated ex officio by the Attorney General's Office. The investigation's focus on a hate crime does not exclude the hypothesis of organized crime, but rather complements it: in Ecuador, the practice of criminal groups demanding extortionate "protection money" from transgender sex workers is documented, and their refusal to pay triggers executions.
+> 
+3. > Duty of enhanced due diligence
+> 
+> In accordance with the standards established in the case of González et al. (“Cotton Field”) v. Mexico by the Inter-American Court of Human Rights, the Ecuadorian State has an obligation to conduct investigations with a gender perspective when the victim is a woman (including transgender women). This implies: (a) not reducing the investigation to generic hypotheses of insecurity; (b) gathering contextual evidence on the situation of transgender people in the area; (c) documenting any history of prior threats; and (d) ensuring that the case file reflects the victim's gender identity as she expressed it during her lifetime.
+> 
+4. > Invisibility as a second death
+> 
+> The Runa Sipiy Observatory warns of the repeated practice by media outlets and official reports of registering murdered trans women under their legal male name, denying posthumously the gender identity they constructed in life. This practice constitutes a form of secondary institutional violence documented by the PAHO/WHO as "symbolic revictimization." Legal Clinic X demands that all state records—Prosecutor's Office, National Police, Civil Registry, INEC—record the victim's adopted name and gender identity.
+> 
+>  STATISTICAL CONTEXT — RUNA SIPIY OBSERVATORY 2026
+> 
+> The murder of "La China" is part of a deadly trend that the Runa Sipiy Observatory has been monitoring nationwide thanks to its agreements with the LGBT+ Federation and CoaliTrans. Data accumulated up to April 15, 2026, reveals:
+> 
+> INDICATOR	FACT
+> Violent deaths of trans people recorded in 2025 (Runa Sipiy)	30 documented cases
+> Confirmed transfemicides in 2025	At least 10 trans women
+> Province with the highest incidence 2025	Guayas and El Oro
+> Percentage of cases with arrests	Less than 30%
+> Year of the start of the Runa Sipiy Observatory	2013 (continuous national coverage)
+> Current territorial coverage (allied groups)	95 national LGBT+ and trans collectives
+>
+> URGENT INSTITUTIONAL DEMANDS • That the Attorney General's Office IMMEDIATELY assign a specialized prosecutor and activate investigation protocols with a gender and trans identity perspective. • That DINASED-Quevedo preserve all ballistic and forensic evidence without contamination and make it available to the investigation with due diligence. • That the Ministry of the Interior report within 72 hours on the progress of the investigation and the lines of action deployed. • That the Municipality of Quevedo and the Government of Los Ríos activate differentiated security protocols for the trans population of the canton. • That the National Institute of Statistics and Censuses (INEC) and the Civil Registry guarantee that the death certificate records the victim's gender identity as expressed during life. • That the Ombudsman's Office assume ex officio oversight of this case and inform the public about the status of the investigation.
+> DEMAND TABLE
+> 
+> #	DEMAND	RESPONSIBLE ACTOR
+> 1	Opening of a prosecutorial file with classification of transfemicide and hate crime (Art. 141 + Art. 47.11 COIP)	State Attorney General's Office
+> 2	Assignment of a prosecutor specializing in gender and diversity	FGE — Los Ríos Prosecutor's Office
+> 3	Full expert report on ballistic evidence and chain of custody	DINASED / Criminalistics
+> 4	Official statement on active lines of investigation	Home Office
+> 5	Death certificate with gender identity of the victim	Civil Registry / INEC
+> 6	Adoption of institutional oversight of the case	Ombudsman's Office
+> 7	Activation of a security committee for the trans population in Quevedo	Municipality of Quevedo / Los Ríos Government
+>  STATEMENTS FROM ORGANIZATIONS
+> 
+> Diane Rodríguez — Director, Silueta X Association / Runa Sipiy Observatory: “For over a decade, we have been documenting what the State refuses to see. The murder of 'La China' in Quevedo is not a random tragedy: it is the predictable result of the absence of public policies providing differentiated protection for trans women. The Runa Sipiy Observatory demands that this case be investigated as a transfemicide, not as just another number in the statistics of general insecurity. From the X Legal Clinic, we offer the family our free and specialized legal support, as well as psychological support through the Psico X Center.”
+> Germán Castillo — Vice President, Ecuadorian Federation of LGBT+ Organizations: “The Ecuadorian Federation of LGBT+ Organizations, which brings together 73 groups throughout the country, demands that the Attorney General’s Office immediately activate its investigation protocols with a gender perspective. We cannot continue burying our trans sisters without the State providing a response proportionate to the gravity of what is happening. Every transfemicide that goes unpunished sends a message that their lives don’t matter. And they do matter.”
+> Geovanny Jaramillo — Spokesperson, National Trans Revolution Platform – CoaliTrans: “CoaliTrans, with 22 active trans collectives throughout Ecuador, demands that the Prosecutor’s Office open the case of ‘La China’ with a focus on transfemicide and that DINASED allocate sufficient investigative resources. Quevedo cannot become another episode of impunity. Our sisters deserve justice in life and in death.”
+> Damián Pérez — Pink Resistance / Quito Coalition “From Pink Resistance, as part of the Quito coalition, we raise our voice from the capital so that this murder is not forgotten. Impunity has a geography: it takes root where the State looks the other way. Quevedo deserves concrete answers, not empty declarations.”
+> Institutional contact: Silueta X Association Legal Clinic X Siluetax.org | federacionlgbt.org	Territorial coverage: National — 24 provinces of Ecuador. Allied networks: 95 LGBT+ and trans collectives. Observatory active since: 2013
+> 
+> "La China" existed. She was loved. She deserves justice.
+
+
+
+Source: Centro de Apoyo a las Identidades Trans
+
+https://siluetax.org/2026/04/17/transfemicidio-en-quevedo-mujer-trans-es-asesinada-a-tiros/
